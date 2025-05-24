@@ -8,6 +8,7 @@
 
 - [Description](#Description)
 - [Library](#Library)
+- [UML](#UML)
 - [Contributors](#Contributors)
 - [Thanks to](#Thanksto)
 
@@ -18,6 +19,10 @@
 ## Library
 
 - [pygame](https://www.python.org/)
+
+## UML
+
+![WhatsApp Image 2025-05-24 at 20 22 25_c72b2458](https://github.com/user-attachments/assets/f1f0876d-aeb1-4a55-94af-f8844b653a46)
 
 ## Contributors
 
