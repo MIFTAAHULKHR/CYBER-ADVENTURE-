@@ -9,6 +9,7 @@
 - [Description](#Description)
 - [Library](#Library)
 - [Contributors](#Contributors)
+- [Thanks to](#Thanksto)
 
 ## Description
 
@@ -27,3 +28,6 @@
 | Elfa Noviana Sari      | 123140066      |  Programer, Desain game, Laporan/slide,presentasi |
 | Miftahul Khoiriah      | 123140064      |  Desain game, Laporan/slide, presentasi,UML       |
 
+## Thanks to
+
+- [Clear Code](https://www.youtube.com/@ClearCode)
