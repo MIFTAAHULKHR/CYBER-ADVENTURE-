@@ -15,4 +15,13 @@
 
 ## Library
 
-[pygame](https://www.python.org/)
+- [pygame](https://www.python.org/)
+
+## Contributors
+
+| Nama                   | NIM            | Tugas         |
+|------------------------|----------------|---------------|
+| Giovan Lado            | Row 1, Cell 2  | Row 1, Cell 3 |
+| Pradana Figo Ariansyah | Row 2, Cell 2  | Row 2, Cell 3 |
+| Elfa Noviana Sari      |                |               |
+
