@@ -8,6 +8,7 @@
 
 - [Description](#Description)
 - [Library](#Library)
+- [Contributors](#Contributors)
 
 ## Description
 
@@ -19,9 +20,10 @@
 
 ## Contributors
 
-| Nama                   | NIM            | Tugas         |
-|------------------------|----------------|---------------|
-| Giovan Lado            | Row 1, Cell 2  | Row 1, Cell 3 |
-| Pradana Figo Ariansyah | Row 2, Cell 2  | Row 2, Cell 3 |
-| Elfa Noviana Sari      |                |               |
+| Nama                   | NIM            | Tugas                                             |
+|------------------------|----------------|---------------------------------------------------|
+| Giovan Lado            | 123140068      |  Programmer, Assets game, presentasi              | 
+| Pradana Figo Ariansyah | 123140063      |  Desain game, Sound game, Assets game,presentasi  |
+| Elfa Noviana Sari      | 123140066      |  Programer, Desain game, Laporan/slide,presentasi |
+| Miftahul Khoiriah      | 123140064      |  Desain game, Laporan/slide, presentasi,UML       |
 
