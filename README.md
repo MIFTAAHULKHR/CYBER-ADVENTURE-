@@ -7,7 +7,12 @@
 ## Table of Contents
 
 - [Description](#Description)
+- [Library](#Library)
 
 ## Description
 
 "Cyber Adventure" adalah game 2D yang yang menggabungkan tiga kategori utama, yaitu action, fantasi siber, dan adventure. Ketiga kategori ini dipilih karena gameplay yang disajikan mengkombinasikan aksi cepat dengan eksplorasi dunia digital yang penuh tantangan. Pemain akan mengendalikan karakter utama dalam latar dunia fiksi berupa labirin cyber yang dipenuhi virus dan ancaman digital, menciptakan pengalaman bermain yang intens dan dinamis. Dengan latar belakang dunia maya yang penuh misteri dan desain visual bergaya cyberpunk retro, Cyber Adventure memberikan sensasi petualangan yang seru sekaligus menegangkan.
+
+## Library
+
+[pygame](https://www.python.org/)
