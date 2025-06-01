@@ -19,9 +19,8 @@
 - [pygame](https://www.python.org/)
 
 ## UML
-![class uml](https://github.com/user-attachments/assets/73fb1e87-cdb1-4d46-b6aa-63f6ac6f63b3)
-![object uml](https://github.com/user-attachments/assets/90e67b23-f38f-48cc-a391-d418c2fcbfe0)
-
+![class diagram CYBER ADVENTURE](https://github.com/user-attachments/assets/68f3f869-fd5d-473f-af4f-0a16d127ddd8)
+![object diagram CYBER ADVENTURE](https://github.com/user-attachments/assets/567b3df4-b413-4316-8e2a-18fde709c117)
 
 ## Contributors
 
