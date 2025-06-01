@@ -21,8 +21,8 @@
 - [pygame](https://www.python.org/)
 
 ## UML
-![class uml](https://github.com/user-attachments/assets/b5846a02-5b1f-4ec3-9006-25db91370cf2)
-![object uml](https://github.com/user-attachments/assets/6549a4cc-2d2d-4ab4-a9e9-6d09ce43e6c4)
+![class uml](https://github.com/user-attachments/assets/73fb1e87-cdb1-4d46-b6aa-63f6ac6f63b3)
+![object uml](https://github.com/user-attachments/assets/90e67b23-f38f-48cc-a391-d418c2fcbfe0)
 
 
 ## Contributors
