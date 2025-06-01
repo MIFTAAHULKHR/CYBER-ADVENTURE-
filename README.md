@@ -1,4 +1,4 @@
-# CYBER ADVENTURE
+![object uml](https://github.com/user-attachments/assets/e2d0e268-2971-4eea-b7a7-31b7aae62b5f)# CYBER ADVENTURE
 
 ![Screenshot 2025-05-24 171705](https://github.com/user-attachments/assets/651232f9-6604-473e-9f27-2949652afa92)
 
@@ -21,8 +21,9 @@
 - [pygame](https://www.python.org/)
 
 ## UML
+![class uml](https://github.com/user-attachments/assets/b5846a02-5b1f-4ec3-9006-25db91370cf2)
+![object uml](https://github.com/user-attachments/assets/6549a4cc-2d2d-4ab4-a9e9-6d09ce43e6c4)
 
-![WhatsApp Image 2025-05-24 at 20 22 25_c72b2458](https://github.com/user-attachments/assets/f1f0876d-aeb1-4a55-94af-f8844b653a46)
 
 ## Contributors
 
