@@ -22,15 +22,6 @@
 ![class diagram CYBER ADVENTURE](https://github.com/user-attachments/assets/68f3f869-fd5d-473f-af4f-0a16d127ddd8)
 ![object diagram CYBER ADVENTURE](https://github.com/user-attachments/assets/567b3df4-b413-4316-8e2a-18fde709c117)
 
-## Contributors
-
-| Nama                   | NIM            | Tugas                                             |
-|------------------------|----------------|---------------------------------------------------|
-| Giovan Lado            | 123140068      |  Programmer, Assets game, presentasi              | 
-| Pradana Figo Ariansyah | 123140063      |  Desain game, Sound game, Assets game,presentasi  |
-| Elfa Noviana Sari      | 123140066      |  Programer, Desain game, Laporan/slide,presentasi |
-| Miftahul Khoiriah      | 123140064      |  Desain game, Laporan/slide, presentasi,UML       |
-
 ## Thanks_to
 
 - [Clear Code](https://www.youtube.com/@ClearCode)
